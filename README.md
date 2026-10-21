@@ -54,4 +54,8 @@
 ---
 
 ### 🗓️ [21-10-2026] - [Análisis, identificación de fases utilizando distintas herramientas]
-*  
+* Identificación de fases usando Match:
+ - Rietveld con FullProf: Bi14 Cr O24 (69.9 %), Bi2 O3 (15.9 %), Co Cr2 O4 (8.7 %), Co3 O4 (5.5 %)
+ - Elemental composition: Bi (75.1 %), O (13.5 %), Co (6.3 %), Cr (5.1 %).
+* Visualización con Vesta de las distintas fases refinadas por Rietveld.
+* Refinamiento Rietveld en X'pert utilizando los datos encontrados en Match.
