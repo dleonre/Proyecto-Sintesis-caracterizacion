@@ -1,0 +1,60 @@
+##############################################################################
+###           Crystal structure refined by Match!/FullProf                 ###
+##############################################################################
+
+data_Co3 O4_refined
+_chemical_formula_sum  'Co3 O4'
+_symmetry_space_group_name_H-M 'F d -3 m'
+_space_group_IT_number 227
+_cell_length_a        8.1748
+_cell_length_b        8.1748
+_cell_length_c        8.1748
+_cell_angle_alpha    90.000
+_cell_angle_beta    90.000
+_cell_angle_gamma    90.000
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_B_iso_or_equiv
+co      0.000   0.000   0.000    1.00000    1.000
+co      0.375   0.375   0.375    1.00000    1.000
+o      0.387   0.387   0.387    1.00000    1.000
+_cell_measurement_wavelength    1.541874
+_cell_measurement_radiation   'x-rays'
+
+
+##############################################################################
+###            Peak list obtained from Rietveld refinement                 ###
+##############################################################################
+loop_
+_pd_peak_d_spacing
+_pd_peak_intensity
+     4.719675         11.20
+     4.719675          5.60
+     2.890199         70.30
+     2.890199         34.90
+     2.464770        128.20
+     2.464770         63.80
+     2.359837         24.60
+     2.359837         12.20
+     2.043679          0.20
+     2.043679          0.10
+     1.875408          2.30
+     1.875408          1.10
+     1.668657         33.70
+     1.668657         16.70
+     1.573225         43.30
+     1.573225         14.30
+     1.573225         21.50
+     1.573225          7.10
+     1.445099         49.90
+     1.445099         24.80
+     1.381779          1.50
+     1.381779          0.80
+     1.362453          0.00
+     1.362453          0.00
+     1.292536         18.60
+     1.292536          9.20

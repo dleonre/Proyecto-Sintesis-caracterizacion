@@ -1,0 +1,506 @@
+ =>         **********************************************************
+ =>         ** PROGRAM FullProf.2k (Version 8.20 - Feb2025-ILL JRC) **
+ =>         **********************************************************
+ =>                        M U L T I -- P A T T E R N
+ =>             Rietveld, Profile Matching & Integrated Intensity
+ =>                  Refinement of X-ray and/or Neutron Data
+ =>                  (Multi_Pattern: WindowsConsole-version)
+  
+  
+ => START Date:21/10/2026  Time => 16:45:35.923
+ => Reading control file *.PCR ... fpcalc
+ => Reading intensity file of pattern  1  fpcalc.dat
+ => Generating reflections for pattern:       1
+ =>                       Phase number:       1
+ => Generating reflections for pattern:       1
+ =>                       Phase number:       2
+ => Generating reflections for pattern:       1
+ =>                       Phase number:       3
+ => Generating reflections for pattern:       1
+ =>                       Phase number:       4
+ => end of preliminary calculations !
+  
+    ===================>>> CYCLE:       1
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Ordering reflections contributing to each point for pattern:       1
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ =>  Solving L.S. equations...
+ => Writing results for cycle       1
+ => R-Factors:   7.09      10.3     Chi2:  10.8     DW-Stat.:  0.2890   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  40.8     Rwp:  37.5     Rexp:   11.40                        Chi2:  10.8
+    => Global user-weigthed Chi2 (Bragg contrib.):   10.83
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   18.13
+    =>    RF-factor     :   20.90
+    => Phase:       2
+    =>    Bragg R-factor:   19.38
+    =>    RF-factor     :   23.01
+    => Phase:       3
+    =>    Bragg R-factor:   20.73
+    =>    RF-factor     :   19.22
+    => Phase:       4
+    =>    Bragg R-factor:   52.28
+    =>    RF-factor     :   36.37
+ =>  Conv. not yet reached -> [Max] Shift(Bover_ph1_pat1)/(eps*Sigma)=  122.06 abs> 1
+  
+    ===================>>> CYCLE:       2
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ =>  Solving L.S. equations...
+ => Writing results for cycle       2
+ => R-Factors:   6.57      9.79     Chi2:  9.74     DW-Stat.:  0.3177   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  43.1     Rwp:  36.7     Rexp:   11.76                        Chi2:  9.74
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.737
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   18.74
+    =>    RF-factor     :   21.32
+    => Phase:       2
+    =>    Bragg R-factor:   23.06
+    =>    RF-factor     :   24.71
+    => Phase:       3
+    =>    Bragg R-factor:   24.00
+    =>    RF-factor     :   20.46
+    => Phase:       4
+    =>    Bragg R-factor:   37.15
+    =>    RF-factor     :   26.43
+ =>  Conv. not yet reached -> [Max] Shift(Bover_ph4_pat1)/(eps*Sigma)=   29.21 abs> 1
+  
+    ===================>>> CYCLE:       3
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       3
+ => R-Factors:   6.54      9.72     Chi2:  9.60     DW-Stat.:  0.3204   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.4     Rwp:  36.4     Rexp:   11.73                        Chi2:  9.60
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.601
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   18.68
+    =>    RF-factor     :   21.26
+    => Phase:       2
+    =>    Bragg R-factor:   22.58
+    =>    RF-factor     :   25.21
+    => Phase:       3
+    =>    Bragg R-factor:   22.62
+    =>    RF-factor     :   20.00
+    => Phase:       4
+    =>    Bragg R-factor:   32.81
+    =>    RF-factor     :   24.38
+ =>  Conv. not yet reached -> [Max] Shift(Bover_ph4_pat1)/(eps*Sigma)=   -6.63 abs> 1
+  
+    ===================>>> CYCLE:       4
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       4
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3218   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.573
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.82
+    =>    RF-factor     :   20.85
+    => Phase:       2
+    =>    Bragg R-factor:   22.26
+    =>    RF-factor     :   24.84
+    => Phase:       3
+    =>    Bragg R-factor:   22.80
+    =>    RF-factor     :   19.90
+    => Phase:       4
+    =>    Bragg R-factor:   32.68
+    =>    RF-factor     :   25.04
+ =>  Conv. not yet reached -> [Max] Shift(Bover_ph4_pat1)/(eps*Sigma)=    2.90 abs> 1
+  
+    ===================>>> CYCLE:       5
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       5
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3217   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.573
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.75
+    =>    RF-factor     :   20.73
+    => Phase:       2
+    =>    Bragg R-factor:   22.22
+    =>    RF-factor     :   24.66
+    => Phase:       3
+    =>    Bragg R-factor:   23.03
+    =>    RF-factor     :   20.20
+    => Phase:       4
+    =>    Bragg R-factor:   32.58
+    =>    RF-factor     :   24.65
+ =>  Conv. not yet reached -> [Max] Shift(Bover_ph4_pat1)/(eps*Sigma)=    2.02 abs> 1
+  
+    ===================>>> CYCLE:       6
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       6
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3218   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.570
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.75
+    =>    RF-factor     :   20.65
+    => Phase:       2
+    =>    Bragg R-factor:   22.15
+    =>    RF-factor     :   24.55
+    => Phase:       3
+    =>    Bragg R-factor:   23.10
+    =>    RF-factor     :   20.36
+    => Phase:       4
+    =>    Bragg R-factor:   32.27
+    =>    RF-factor     :   24.19
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=   -3.68 abs> 1
+  
+    ===================>>> CYCLE:       7
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       7
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3216   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.572
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.71
+    =>    RF-factor     :   20.64
+    => Phase:       2
+    =>    Bragg R-factor:   22.18
+    =>    RF-factor     :   24.58
+    => Phase:       3
+    =>    Bragg R-factor:   23.20
+    =>    RF-factor     :   20.45
+    => Phase:       4
+    =>    Bragg R-factor:   32.50
+    =>    RF-factor     :   24.59
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=    1.25 abs> 1
+  
+    ===================>>> CYCLE:       8
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       8
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3216   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.571
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.69
+    =>    RF-factor     :   20.60
+    => Phase:       2
+    =>    Bragg R-factor:   22.15
+    =>    RF-factor     :   24.55
+    => Phase:       3
+    =>    Bragg R-factor:   23.13
+    =>    RF-factor     :   20.47
+    => Phase:       4
+    =>    Bragg R-factor:   32.49
+    =>    RF-factor     :   24.56
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=   -3.89 abs> 1
+  
+    ===================>>> CYCLE:       9
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle       9
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3216   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.3     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.572
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.69
+    =>    RF-factor     :   20.62
+    => Phase:       2
+    =>    Bragg R-factor:   22.15
+    =>    RF-factor     :   24.55
+    => Phase:       3
+    =>    Bragg R-factor:   23.16
+    =>    RF-factor     :   20.50
+    => Phase:       4
+    =>    Bragg R-factor:   32.57
+    =>    RF-factor     :   24.63
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=   -6.75 abs> 1
+  
+    ===================>>> CYCLE:      10
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      10
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3218   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.569
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.70
+    =>    RF-factor     :   20.60
+    => Phase:       2
+    =>    Bragg R-factor:   22.25
+    =>    RF-factor     :   24.62
+    => Phase:       3
+    =>    Bragg R-factor:   23.21
+    =>    RF-factor     :   20.54
+    => Phase:       4
+    =>    Bragg R-factor:   32.66
+    =>    RF-factor     :   24.62
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=    3.52 abs> 1
+  
+    ===================>>> CYCLE:      11
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      11
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3214   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.67
+    =>    RF-factor     :   20.55
+    => Phase:       2
+    =>    Bragg R-factor:   22.25
+    =>    RF-factor     :   24.59
+    => Phase:       3
+    =>    Bragg R-factor:   23.17
+    =>    RF-factor     :   20.54
+    => Phase:       4
+    =>    Bragg R-factor:   32.45
+    =>    RF-factor     :   24.72
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=   -1.32 abs> 1
+  
+    ===================>>> CYCLE:      12
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      12
+ => R-Factors:   6.53      9.70     Chi2:  9.57     DW-Stat.:  0.3216   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.68
+    =>    RF-factor     :   20.56
+    => Phase:       2
+    =>    Bragg R-factor:   22.22
+    =>    RF-factor     :   24.53
+    => Phase:       3
+    =>    Bragg R-factor:   23.18
+    =>    RF-factor     :   20.55
+    => Phase:       4
+    =>    Bragg R-factor:   32.56
+    =>    RF-factor     :   24.93
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=    1.59 abs> 1
+  
+    ===================>>> CYCLE:      13
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      13
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3214   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.67
+    =>    RF-factor     :   20.57
+    => Phase:       2
+    =>    Bragg R-factor:   22.22
+    =>    RF-factor     :   24.54
+    => Phase:       3
+    =>    Bragg R-factor:   23.19
+    =>    RF-factor     :   20.55
+    => Phase:       4
+    =>    Bragg R-factor:   32.51
+    =>    RF-factor     :   24.87
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=   -1.30 abs> 1
+  
+    ===================>>> CYCLE:      14
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      14
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3216   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.67
+    =>    RF-factor     :   20.55
+    => Phase:       2
+    =>    Bragg R-factor:   22.21
+    =>    RF-factor     :   24.52
+    => Phase:       3
+    =>    Bragg R-factor:   23.16
+    =>    RF-factor     :   20.53
+    => Phase:       4
+    =>    Bragg R-factor:   32.57
+    =>    RF-factor     :   24.94
+ =>  Conv. not yet reached -> [Max] Shift(U-Cagl_ph4_pat1)/(eps*Sigma)=    1.28 abs> 1
+  
+    ===================>>> CYCLE:      15
+  
+ => Control file *.pcr: fpcalc
+ => Pattern:   1  fpcalc
+ => Calculation of Yi for all points + Normal Matrix & Vector...
+ => Calculation for pattern:       1
+ => W A R N I N G: negative GAUSSIAN FWHM somewhere in pattern:       1
+ =>  The program continue ... but check FWHM parameters next run!
+ =>  Solving L.S. equations...
+ => Writing results for cycle      15
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3215   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.67
+    =>    RF-factor     :   20.57
+    => Phase:       2
+    =>    Bragg R-factor:   22.21
+    =>    RF-factor     :   24.52
+    => Phase:       3
+    =>    Bragg R-factor:   23.16
+    =>    RF-factor     :   20.57
+    => Phase:       4
+    =>    Bragg R-factor:   32.51
+    =>    RF-factor     :   24.88
+  
+ => Convergence reached at this CYCLE !!!!: CYCLE No.      15
+ => R-Factors:   6.52      9.70     Chi2:  9.57     DW-Stat.:  0.3215   Patt#:  1
+ => Expected :            3.14                                1.8835
+ => Conventional Rietveld R-factors for Pattern:       1
+ => Rp:  42.1     Rwp:  36.2     Rexp:   11.72                        Chi2:  9.57
+    => Global user-weigthed Chi2 (Bragg contrib.):   9.568
+    => ---------> Pattern#       1
+    => Phase:       1
+    =>    Bragg R-factor:   17.67
+    =>    RF-factor     :   20.57
+    => Phase:       2
+    =>    Bragg R-factor:   22.21
+    =>    RF-factor     :   24.52
+    => Phase:       3
+    =>    Bragg R-factor:   23.16
+    =>    RF-factor     :   20.57
+    => Phase:       4
+    =>    Bragg R-factor:   32.51
+    =>    RF-factor     :   24.88
+ => Negative GAUSSIAN and/or LORENTZIAN FWHM detected ...
+ => Check the FWHM in the list of reflections given in the OUT file ...
+ => Restart, eventually, with new values of half-width parameters ...
+ => Normal end, final calculations and writing...
+ => Contribution to Yi for phase:       1
+ => Contribution to Yi for phase:       2
+ => Contribution to Yi for phase:       3
+ => Contribution to Yi for phase:       4
+  
+  
+ =>               CPU Time:     1.617 seconds
+ =>                             0.027 minutes
+  
+ => END   Date:21/10/2026  Time => 16:45:37.526
+  
+ => Data Files :
+ =>             - fpcalc.dat
+ => PCR  File  : fpcalc
+ => END
