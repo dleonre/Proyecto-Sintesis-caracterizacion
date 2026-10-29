@@ -2,7 +2,6 @@
 
 **Materia:** Física Experimental Avanzada  
 **Profesor:** David Arsenio Landinez Téllez  
-**Estudiante:** Daniel León Rengifo 
 
 ---
 
